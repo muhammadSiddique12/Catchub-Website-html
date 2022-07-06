@@ -19,7 +19,6 @@ body {
 header {
   width: 100vw;
   display: flex;
-  display: wrap;
 }
 p {
   line-height: 24px;
